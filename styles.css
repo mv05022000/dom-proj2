@@ -1,0 +1,15 @@
+body {
+    
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#output {
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 24px;
+}
